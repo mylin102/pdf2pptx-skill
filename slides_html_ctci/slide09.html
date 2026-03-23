@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body { font-family: 'Helvetica', Arial, sans-serif; width: 720pt; height: 405pt; margin: 0; padding: 0; background-color: #F4F6F6; color: #1C2833; overflow: hidden; display: flex; }
+  .slide { padding: 40pt; width: 640pt; height: 325pt; display: flex; flex-direction: column; }
+  .h1-box { border-left: 10pt solid #1C2833; padding-left: 15pt; margin-bottom: 20pt; }
+  h1 { font-size: 28pt; color: #1C2833; margin: 0; }
+  .content { display: flex; gap: 20pt; flex: 1; }
+  .left { flex: 1; }
+  .right { flex: 1; background-color: #EBF5FB; padding: 15pt; border-radius: 8pt; border: 1pt dashed #2E4053; }
+  .event { background-color: #C0392B; color: white; padding: 10pt; border-radius: 5pt; margin-bottom: 15pt; font-weight: bold; }
+  .strategy h4 { margin: 0 0 5pt 0; color: #2E4053; }
+  .strategy p { margin: 0 0 10pt 0; font-size: 13pt; line-height: 1.3; }
+</style>
+</head>
+<body>
+<div class="slide">
+  <div class="h1-box"><h1>實戰推演：虛擬失敗，實體完美</h1></div>
+  <div class="content">
+    <div class="left">
+      <div class="event"><p>[事件觸發] 美國德州長交期設備延遲 12 週</p></div>
+      <div class="strategy">
+        <h4>Option A (Fail-Safe)</h4>
+        <p>立即加價 10% 啟動備選供應商。<br>預計挽回時程：8 週。</p>
+        <h4>Option B (Degraded Mode)</h4>
+        <p>變更現場工序，先行施作非受災區塊。<br>預計挽回時程：3 週，維持當期估驗現金流。</p>
+      </div>
+    </div>
+    <div class="right">
+      <p style="font-weight: bold; margin-top: 0;">蒙地卡羅風險分佈 (模擬)</p>
+      <img src="../ctci_mineru_out/CTCI_Strategy/auto/images/9a0761cb34fb4e1dfde405eeb46311f18255aae9ff47d2beb1a979a757c537ff.jpg" style="width: 100%; border-radius: 3pt;">
+    </div>
+  </div>
+</div>
+</body>
+</html>
