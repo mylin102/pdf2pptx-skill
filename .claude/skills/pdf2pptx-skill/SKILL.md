@@ -1,4 +1,4 @@
-# md2pptx-expert
+# pdf2pptx-skill
 
 ## Purpose
 This skill converts Markdown files or PDF documents into professional PPTX presentations. It formally integrates **MinerU** for high-fidelity PDF extraction and utilizes the `html2pptx` workflow for precise layout generation. It automates the end-to-end pipeline: **[PDF/MD] -> [Structured MD] -> [HTML Slides] -> [PPTX]**.

@@ -2,7 +2,7 @@
 
 本專案旨在提供一個自動化、高品質的解決方案，將複雜的科技策略報告（PDF 或 Markdown 格式）轉換為具備法人級視覺水準的專業 PowerPoint (PPTX) 簡報。
 
-專案內含一份核心技能：**`md2pptx-expert`**，它整合了 **MinerU** 的高保真 PDF 提取能力與 **html2pptx** 的精準佈局引擎。
+專案內含一份核心技能：**`pdf2pptx-skill`**，它整合了 **MinerU** 的高保真 PDF 提取能力與 **html2pptx** 的精準佈局引擎。
 
 ---
 
@@ -25,18 +25,18 @@ npm install pptxgenjs playwright sharp
 npx playwright install chromium
 ```
 
-### 2. 安裝 md2pptx-expert 技能
+### 2. 安裝 pdf2pptx-skill 技能
 
 若要在 Claude Code 中啟用此技能，請選擇以下其中一種方式：
 
 #### 方案 A：在專案目錄中使用 (推薦)
-本專案已包含 `.claude/skills/md2pptx-expert` 目錄。當您在專案根目錄啟動 Claude Code 時，系統會自動偵測並載入該技能。
+本專案已包含 `.claude/skills/pdf2pptx-skill` 目錄。當您在專案根目錄啟動 Claude Code 時，系統會自動偵測並載入該技能。
 
 #### 方案 B：全域安裝 (在任何目錄都能呼叫)
 建立全域連結，讓您在其他專案也能使用：
 ```bash
 mkdir -p ~/.claude/skills
-ln -s "$(pwd)/.claude/skills/md2pptx-expert" ~/.claude/skills/md2pptx-expert
+ln -s "$(pwd)/.claude/skills/pdf2pptx-skill" ~/.claude/skills/pdf2pptx-skill
 ```
 
 ---
@@ -63,7 +63,7 @@ ln -s "$(pwd)/.claude/skills/md2pptx-expert" ~/.claude/skills/md2pptx-expert
 
 ---
 
-## 💡 核心技術規範 (md2pptx-expert)
+## 💡 核心技術規範 (pdf2pptx-skill)
 
 為了確保轉換成功，請遵循技能定義中的規範：
 - **文字包裹：** 所有文字必須包裹在 `<p>`, `<h1>`-`<h6>` 或列表標籤中。
@@ -74,7 +74,7 @@ ln -s "$(pwd)/.claude/skills/md2pptx-expert" ~/.claude/skills/md2pptx-expert
 ---
 
 ## 📁 專案結構
-- `.claude/skills/md2pptx-expert/`: 技能定義與工作流規範。
+- `.claude/skills/pdf2pptx-skill/`: 技能定義與工作流規範。
 - `html2pptx_local.js`: 經過修正的本地轉換核心庫。
 - `generate_pptx.js`: 簡報產生範例腳本。
 - `AI_Strategy_Report.pptx`: 已成功轉換的範例簡報。
@@ -82,4 +82,4 @@ ln -s "$(pwd)/.claude/skills/md2pptx-expert" ~/.claude/skills/md2pptx-expert
 ---
 
 ## 🤝 貢獻與反饋
-若在使用 `md2pptx-expert` 技能時遇到佈局驗證錯誤，請參考 `SKILL.md` 中的 **Troubleshooting** 章節進行修正。
+若在使用 `pdf2pptx-skill` 技能時遇到佈局驗證錯誤，請參考 `SKILL.md` 中的 **Troubleshooting** 章節進行修正。
