@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+package-lock.json
+
+# Generated Presentation Files
+*.pptx
+*.pdf
+*.txt
+*.log
+
+# Generated intermediate folders
+slides_html/
+slides_html_ctci/
+ctci_mineru_out/
+
+# Generated Markdown from PDF
+AI_Strategy.md
+CTCI_Strategy.md
+
+# OS files
+.DS_Store
