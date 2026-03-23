@@ -6,25 +6,13 @@ const html2pptx = require('./html2pptx_local.js');
 async function createPresentation() {
     const pptx = new pptxgen();
     pptx.layout = 'LAYOUT_16x9';
-    pptx.author = 'PDF2PPTX Bot';
-    pptx.title = 'My Presentation';
+    pptx.author = 'CTCI Strategy Bot';
+    pptx.title = 'CTCI Next-Gen EPC Digital Defense Strategy';
 
-    // The directory containing your .html slides
-    const slidesDir = path.join(__dirname, 'slides_html');
-    
-    if (!fs.existsSync(slidesDir)) {
-        console.error(`Error: Directory not found: ${slidesDir}`);
-        console.log('Please create a slides_html folder with your slide HTML files.');
-        return;
-    }
-
+    const slidesDir = path.join(__dirname, 'slides_html_ctci');
     const slideFiles = fs.readdirSync(slidesDir)
         .filter(f => f.endsWith('.html'))
-        .sort((a, b) => {
-            const numA = parseInt(a.match(/\d+/)[0]) || 0;
-            const numB = parseInt(b.match(/\d+/)[0]) || 0;
-            return numA - numB;
-        });
+        .sort();
 
     console.log(`Found ${slideFiles.length} slides to process...`);
 
@@ -38,7 +26,7 @@ async function createPresentation() {
         }
     }
 
-    const outputName = 'Final_Presentation.pptx';
+    const outputName = 'CTCI_Strategy_Report.pptx';
     await pptx.writeFile({ fileName: outputName });
     console.log(`Presentation created successfully: ${outputName}`);
 }

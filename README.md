@@ -77,7 +77,6 @@ ln -s "$(pwd)/.claude/skills/pdf2pptx-skill" ~/.claude/skills/pdf2pptx-skill
 - `.claude/skills/pdf2pptx-skill/`: 技能定義與工作流規範。
 - `html2pptx_local.js`: 經過修正的本地轉換核心庫。
 - `generate_pptx.js`: 簡報產生範例腳本。
-- `AI_Strategy_Report.pptx`: 已成功轉換的範例簡報。
 
 ---
 
