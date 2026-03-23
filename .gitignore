@@ -12,11 +12,19 @@ package-lock.json
 slides_html*/
 mineru_out*/
 output*/
+ctci_mineru_out/
 
-# Generated Markdown from PDF
-*.md
+# Generated Markdown from PDF (Exclude specific generated ones)
+AI_Strategy.md
+CTCI_Strategy.md
+*_model.json
+*_middle.json
+*_content_list.json
+
+# Keep README and Skill docs
+!README.md
+!.claude/skills/**/*.md
 
 # OS files
 .DS_Store
 images/
-AI_Strategy_*
