@@ -1,4 +1,4 @@
-# pdf2pptx-skill: AI Strategy # AI Strategy & Professional PPTX Automation Professional PPTX Automation
+# pdf2pptx-skill: AI Strategy & Professional PPTX Automation
 
 本專案旨在提供一個自動化、高品質的解決方案，將複雜的科技策略報告（PDF 或 Markdown 格式）轉換為具備法人級視覺水準的專業 PowerPoint (PPTX) 簡報。
 
