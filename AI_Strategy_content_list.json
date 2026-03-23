@@ -1,0 +1,1081 @@
+[
+    {
+        "type": "text",
+        "text": "Insight Callout ",
+        "bbox": [
+            43,
+            66,
+            149,
+            97
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "核心見解：人工智慧基礙設施的快逮擴張，正驅動半導體與資料中心供應纏的長期重估。2024-2025年，聚焦於具備定價權與開技術讚城河的領先企業，為獲取起越市場回報的核心策略。",
+        "bbox": [
+            42,
+            100,
+            473,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2024-2025科技與  \n半導體僚供應鍵  \n最新市場狀況與投資標的  \n排名",
+        "bbox": [
+            34,
+            277,
+            470,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "聚焦AI基礎設施大躍進與供應鍵定價權的法人級核心選股策略",
+        "bbox": [
+            34,
+            632,
+            467,
+            739
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac75caacbd035497bf413fc2ebfe59243cbfc290c40974ee278e5900f57677da.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            88,
+            927,
+            634
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/3b5c234965c6aa2321217fbfd3b5cfeb7fbae7ef46d090dc7f7c80047b854073.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>企业名稱（Ticker）</td><td>核心技术優势</td><td>警收成预测（YoY）</td><td>EPS能</td><td>法人按评级</td></tr><tr><td>台嶺電 （2330.TW）</td><td>光港程银尊</td><td>+22%</td><td>強勁</td><td>買入</td></tr><tr><td>辉（NVDA.US)</td><td>AI GPU塑断</td><td>+85%</td><td>極強</td><td>強力買入</td></tr><tr><td>财霖科 （2454.TW)</td><td>线AI整台</td><td>+15%</td><td>定</td><td>持有</td></tr><tr><td>台稍電 (2330.TW)</td><td>先维製程领域</td><td>+23%</td><td>強</td><td>買入</td></tr><tr><td>寰辉蓬 (NVDA.US)</td><td>AI GPU塑断</td><td>+75%</td><td>極強</td><td>買入</td></tr><tr><td>聯科（2454.TW）</td><td>逸AI壁合</td><td>+15%</td><td>稳定</td><td>持有</td></tr></table>",
+        "bbox": [
+            500,
+            656,
+            968,
+            902
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            995,
+            994
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "discarded",
+        "text": "2024年5月|法人级投資策略研究√隊",
+        "bbox": [
+            34,
+            904,
+            303,
+            942
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2024-2025年台股科技板塊的核心驅動力，來自於AI基礎設施的典範轉移與供應鍵產能緊缺的雙重疊加。",
+        "bbox": [
+            53,
+            102,
+            497,
+            269
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            133,
+            343,
+            226,
+            506
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0447ac691a120a48269a18b8c89bdae153ee502d19739dd1589754d1905e0226.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            454,
+            351,
+            545,
+            497
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "市場現況-AI典範轉移",
+        "bbox": [
+            66,
+            529,
+            292,
+            582
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NVIDIA GTC 2024碓立GB200 NVL72成為次代標準，算力暴增百倍，直接引爆液冷散熱(LiquidCooling)與高階先進封装(CoWoS/SOIC)需求。",
+        "bbox": [
+            43,
+            611,
+            315,
+            930
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "供應鲢現實-全面漲價與緊缺 ",
+        "text_level": 1,
+        "bbox": [
+            356,
+            531,
+            645,
+            583
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "產能排擠與上游減産發酵，從記憶體(NAND Flash)\\`被動元件(Murata)到功率半導體，全面迎來賣方市場與報價雙位數調漲。",
+        "bbox": [
+            359,
+            609,
+            634,
+            876
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "投資策略-鎖定超額報酬 ",
+        "text_level": 1,
+        "bbox": [
+            698,
+            531,
+            943,
+            582
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "屏棄單一題材炒作，聚焦於具備「強勢定價權」且「2026年預估EPS $\\mathrm { Y o Y } > 4 0 \\%$ 的產業龍頭，構建防禦與爆發具兼具的投資組合。",
+        "bbox": [
+            683,
+            609,
+            965,
+            876
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "discarded",
+        "text": "? ",
+        "bbox": [
+            774,
+            343,
+            865,
+            503
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c44be3991f5b2e217e8c9490df2c8381f8b9f1ec577599669839fd9911535ae6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            4,
+            28,
+            996,
+            981
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            995,
+            990
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "先進封裝產能排擠與國際大廠減產/調漲報價正沿著供應鍵引發連鎖性的「供需緊俏」效應",
+        "bbox": [
+            67,
+            131,
+            573,
+            255
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "先進封装瓶頸 記憶體緊缺 被動元件調漲 功率半導體漲價(TSMC) (Kioxia/Micron) (Murata) (On Semi/Nexperia)台積電CoWoS/SOIC 原廠大幅減產 日系大廠針對積層 大廠調高報價並調產能供不應求，交 SLC/MLC NAND 多層陶瓷電容、 整產能，驅動客戶期延長至6個季度 Flash，導致市場供 RF電感調漲報價 重啟拉貨，結束長，帶動本土設備商 給減少 $2 0 - 3 0 \\%$ ， $20 \\%$ ，台廠迎來轉 達一年半的庫存調(如辛耘、弘塑) 報價逐季墊高。 單與比價空間。 整期。訂單滿載。",
+        "bbox": [
+            42,
+            384,
+            1000,
+            875
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "綜合宏觀變局與微觀供應鍵調查，2024-2025年的超額報酬將高度集中於三大核心投資主題",
+        "bbox": [
+            47,
+            66,
+            424,
+            220
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "AI基礎設施升級",
+        "text_level": 1,
+        "bbox": [
+            50,
+            329,
+            220,
+            381
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "聚焦受惠於GB200架構轉換的液冷散熱雙雄與高階銅箔基板獨家供應商。",
+        "bbox": [
+            48,
+            398,
+            261,
+            578
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "先進封装超級循環",
+        "text_level": 1,
+        "bbox": [
+            766,
+            329,
+            957,
+            381
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "鎖定直接受惠台積電CoWoS/SOIC資本支出擴張的濕製程設備與檢測分析龍頭。",
+        "bbox": [
+            764,
+            399,
+            971,
+            580
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "供需反轉與定價權 ",
+        "text_level": 1,
+        "bbox": [
+            699,
+            688,
+            890,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "佈局因原廠減產或漲價，具備低價庫存優勢與轉單效應的記憶體模組與電子零組件廠。",
+        "bbox": [
+            696,
+            752,
+            965,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            995,
+            990
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "透過嚴格的量化數據與質化題材交叉比對，我們從龐大的供應鲢中淬鍊出最具爆發力的投資標的。",
+        "text_level": 1,
+        "bbox": [
+            50,
+            72,
+            481,
+            171
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "核心主题契合度",
+        "text_level": 1,
+        "bbox": [
+            417,
+            251,
+            582,
+            303
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "企業營收必須高度暴露於液冷散熱、先進封装或關健零組件漲俱三大主軸",
+        "bbox": [
+            337,
+            307,
+            662,
+            382
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2026年獲利爆發力",
+        "text_level": 1,
+        "bbox": [
+            399,
+            436,
+            599,
+            488
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "嚴格篩選2025-2026年預估 EPS具備高度成長斜率 $( \\mathsf { Y o Y } > 3 0 \\mathsf { - } 4 0 \\% )$ 的高能見度個股。",
+        "bbox": [
+            341,
+            492,
+            658,
+            566
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "近期法說與供應鍵確認",
+        "text_level": 1,
+        "bbox": [
+            382,
+            618,
+            616,
+            670
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "排除純概念股，鎖定近期财報亮眼·獲大廠認證(如NVL72供應商)或接獲急單的實質受惠者。",
+        "bbox": [
+            351,
+            674,
+            646,
+            750
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Top10法人级核心選股 ",
+        "bbox": [
+            683,
+            811,
+            928,
+            867
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/f03122740bc0ca126c6bb5f0c062d1e3fd841e8e29ae84312612548b8f2d7ea2.jpg",
+        "table_caption": [
+            "2024-2025法人級十大核心投資標的：兼具主題純度與2026年極致獲利成長動能。"
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=4 colspan=1>排名</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=3 colspan=1>企業</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td rowspan=2 colspan=1>關鍵催化劑</td></tr><tr><td rowspan=1 colspan=1>核心主題</td><td rowspan=1 colspan=1>2025预估EPS</td><td rowspan=1 colspan=1>2026预估EPS</td></tr><tr><td rowspan=1 colspan=1>1</td><td rowspan=1 colspan=1>奇 (3017)</td><td rowspan=1 colspan=1>液冷龍頭</td><td rowspan=1 colspan=1>49.17</td><td rowspan=1 colspan=1>89.28</td><td rowspan=1 colspan=1>NVL72水冷板主力供應商</td></tr><tr><td rowspan=1 colspan=1>2</td><td rowspan=1 colspan=1>雙鴻 (3324)</td><td rowspan=1 colspan=1>液冷雙雄</td><td rowspan=1 colspan=1>28.20</td><td rowspan=1 colspan=1>52.09</td><td rowspan=1 colspan=1>分歧管與水冷板切入美系雲端</td></tr><tr><td rowspan=1 colspan=1>3</td><td rowspan=1 colspan=1>弘塑 (3131)</td><td rowspan=1 colspan=1>先進封装設備</td><td rowspan=1 colspan=1>70.0~80.0</td><td rowspan=1 colspan=1>135.00</td><td rowspan=1 colspan=1>CoWoS濕製程設備獨家/主力</td></tr><tr><td rowspan=1 colspan=1>4</td><td rowspan=1 colspan=1>台光電 (2383)</td><td rowspan=1 colspan=1>高階CCL獨家</td><td rowspan=1 colspan=1>41.67</td><td rowspan=1 colspan=1>72.66</td><td rowspan=1 colspan=1>M8/M9板材獨占優势</td></tr><tr><td rowspan=1 colspan=1>5</td><td rowspan=1 colspan=1>中砂(1560)</td><td rowspan=1 colspan=1>先進製程耗材</td><td rowspan=1 colspan=1>9.28</td><td rowspan=1 colspan=1>12.27</td><td rowspan=1 colspan=1>鑽石碟受惠2nm與HBM擴產</td></tr><tr><td rowspan=1 colspan=1>6</td><td rowspan=1 colspan=1>辛耘 (3583)</td><td rowspan=1 colspan=1>先進封装設</td><td rowspan=1 colspan=1>15.0~19.0</td><td rowspan=1 colspan=1>47.50</td><td rowspan=1 colspan=1>設備交機潮帶動營收翻倍</td></tr><tr><td rowspan=1 colspan=1>7</td><td rowspan=1 colspan=1>台燿 (6274)</td><td rowspan=1 colspan=1>高階CCL升級</td><td rowspan=1 colspan=1>12.23</td><td rowspan=1 colspan=1>21.33</td><td rowspan=1 colspan=1>800G交换器與M8材料放量</td></tr><tr><td rowspan=1 colspan=1>8</td><td rowspan=1 colspan=1>閎康 (3587)</td><td rowspan=1 colspan=1>先進製程檢測</td><td rowspan=1 colspan=1>12.86</td><td rowspan=1 colspan=1>17.85</td><td rowspan=1 colspan=1>日本晶圖代工與先進封装MA需求</td></tr><tr><td rowspan=1 colspan=1>9</td><td rowspan=1 colspan=1>臻鼎-KY (4958)</td><td rowspan=1 colspan=1>PCB全方位</td><td rowspan=1 colspan=1>6.97</td><td rowspan=1 colspan=1>10.31</td><td rowspan=1 colspan=1>AI伺服器主板與ABF載板發酵</td></tr><tr><td rowspan=1 colspan=1>10</td><td rowspan=1 colspan=1>威剛（3260)/南亚科（2408)</td><td rowspan=1 colspan=1>記憶體反轉</td><td rowspan=1 colspan=1>大幅成長</td><td rowspan=1 colspan=1>趨勢向上</td><td rowspan=1 colspan=1>NAND減產受惠與低價庫存利益</td></tr></table>",
+        "bbox": [
+            26,
+            113,
+            973,
+            970
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "深入解析一（液冷散熱） ：NVIDIA GB20O帶動散熱規格質變，奇鉉與雙鴻憑藉技術壁壘形成寡占優勢。",
+        "bbox": [
+            60,
+            101,
+            598,
+            199
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "奇(3017)[產能領跑者]",
+        "text_level": 1,
+        "bbox": [
+            144,
+            259,
+            388,
+            311
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a75d3c8391bafab16d91cc8928927951404810ce8a56bada3f13b39c6d1b9fec.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            343,
+            466,
+            557
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "關鍵催化劑：",
+        "bbox": [
+            58,
+            574,
+            176,
+            618
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "身為兩大Cold Plate供應商之一，首波搭載於美系伺服器代工廠。3DVC出貨強勁，越南廠擴充水冷模組產能，液冷專案市佔率極高",
+        "bbox": [
+            56,
+            621,
+            473,
+            759
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "雙鴻 (3324)[技術先行者]",
+        "text_level": 1,
+        "bbox": [
+            614,
+            259,
+            860,
+            311
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9c16e49ad9225b5cee600374907316ae173249cc210e1a986cde50acc258d040.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=\"4\">2025 EPS 2026 EPS</td><td></td></tr><tr><td>28.20</td></tr><tr><td></td></tr><tr><td>52.09 (YoY +84.7%)</td></tr><tr><td></td><td></td></tr></table>",
+        "bbox": [
+            522,
+            343,
+            926,
+            557
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "關缝催化劑：",
+        "bbox": [
+            525,
+            574,
+            643,
+            618
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cold Plate與Manifold切入美系雲端服務商。伺服器液冷散熱零件良率攀升，in-roWCDU透過客戶認證切入第三家美系雲端服務商",
+        "bbox": [
+            523,
+            621,
+            941,
+            759
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "結論：兩者皆具備超過 $8 0 \\%$ 的2026年獲利爆發力，為AI基礎設施板塊的絕對核心配置。",
+        "bbox": [
+            60,
+            856,
+            927,
+            911
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            997,
+            990
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "深入解析二（先進封装）：台積電CoWoS/SOIC產能的爆發性攘建，直接轉 弘塑 (3131)化為本土設備與耗材商的長線超級循環。 2026預估 EPS :濕製程設備主力/獨家供應商。 130.0\\~140.0享有最高毛利率與寡占紅利。台積電(TSMC)先進封装擴產辛耘 (3583)  \n2026 預估 EPS :CoWoS產能由每月3-4萬片攘展至 濕製程設備市占擴大，交機潮顯 40.0\\~55.0  \n5-6萬片規模。 現。訂單能見度已達2025年底。中砂 (1560)  \n2026预估 EPS :鑽石碟切入先進製程與HBM產 12.27需求。高階產品佔比穩步提升。",
+        "bbox": [
+            38,
+            74,
+            977,
+            902
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            966,
+            996,
+            992
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "深入解析三（高階CCL/PCB）：AI伺服器平台升級推升板材規格至M8等級，重塑材料供應商的毛利結構",
+        "bbox": [
+            55,
+            89,
+            452,
+            247
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "臻鼎-KY (4958) ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            696,
+            424,
+            744
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "受惠AI伺服器主板、高階 HDI及ABF载板放量，產能利用率逼近滿載2026 EPS预估: 10.31 °",
+        "bbox": [
+            274,
+            766,
+            470,
+            912
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "台耀(6274)",
+        "text_level": 1,
+        "bbox": [
+            504,
+            523,
+            618,
+            572
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "強势擊：M8規格材料顺利通過認證，800G交換器板材持鑽放量出貨。2026 EPS 預估 : 21.33。",
+        "bbox": [
+            502,
+            593,
+            689,
+            740
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "台光電 (2383)",
+        "text_level": 1,
+        "bbox": [
+            734,
+            347,
+            869,
+            398
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "獨占頭：NVIDIA LPU伺服器M9 規格CCL獨家供應商。受惠800G交换器與AI间服器放量。2026 EPS預估: 72.66。",
+        "bbox": [
+            731,
+            417,
+            933,
+            600
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            968,
+            993,
+            989
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "深入解析四（供需反轉）：",
+        "text_level": 1,
+        "bbox": [
+            49,
+            66,
+            297,
+            113
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "原廠控產與強勢定價權發酵，為記憶體與零組件廠創造龐大的庫存利益與轉單空間。",
+        "bbox": [
+            55,
+            117,
+            817,
+            165
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Memory(記憶體反轉)-威剛/南亞科",
+        "text_level": 1,
+        "bbox": [
+            87,
+            236,
+            428,
+            285
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/068fba40baafb8f46dc095284185fb738d2d2550a6f6dd7d1a6f66626b273478.jpg",
+        "image_caption": [
+            "Demand "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            85,
+            317,
+            352,
+            595
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Components (被動元件與功率半導體) ",
+        "text_level": 1,
+        "bbox": [
+            561,
+            236,
+            914,
+            285
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c62ee386ed6e7d9ea703d825e56aa42b7b6c035290ced8c2faf8023147020102.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            624,
+            322,
+            890,
+            588
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Catalyst(主要催化劑)",
+        "bbox": [
+            64,
+            625,
+            260,
+            662
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Kioxia 與 Micron 大幅减産 SLC/MLC NAND Flash，供給銳減 $2 0 - 3 0 \\%$ 。",
+        "bbox": [
+            63,
+            675,
+            465,
+            748
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Impact（影) ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            787,
+            170,
+            824
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "客戶因擔憂缺貨啟動備貨潮(Last Buy Order)，具備低價庫存優勢的模組廄（威剛3260）將迎來毛利率大幅跳升。",
+        "bbox": [
+            62,
+            837,
+            465,
+            914
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Key Catalyst(主要催化)",
+        "text_level": 1,
+        "bbox": [
+            547,
+            625,
+            744,
+            662
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "村田（Murata）針對積層多層陶瓷電容調漲 $20 \\%$ ; OnSemi/Nexperia針對功率半導體漲價。",
+        "bbox": [
+            545,
+            674,
+            931,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Impact (影響)",
+        "text_level": 1,
+        "bbox": [
+            548,
+            787,
+            652,
+            822
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "台廰迎來轉單效應。報價上漲不僅可將成本轉嫁客戶，更創造出低價库存的超額利潤空間，結束產業寒冬。",
+        "bbox": [
+            547,
+            837,
+            925,
+            912
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Noto Sans TC ",
+        "bbox": [
+            53,
+            57,
+            156,
+            91
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "估值與成長性矩陣 ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            102,
+            274,
+            162
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "估值與成长性矩陣：",
+        "text_level": 1,
+        "bbox": [
+            71,
+            207,
+            211,
+            244
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "透過2026年預估獲利與本益比交叉分析，精準定位尚未完全反映爆發力的「黃金象限」。",
+        "bbox": [
+            69,
+            248,
+            443,
+            328
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8e64bbf9a5bcd33d6cca5881d4b6c30a23eae641bc3fa1f6a088606c8da4030.jpg",
+        "image_caption": [
+            "2026 Estimated P/E Ratio (估值/本益比) $_ { - > }$ Higher is right "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            44,
+            343,
+            761,
+            860
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\bigcirc$ Sweet Spot (高成長，合理估值) Premium Valuation (高成長，高估值) Steady Growth (穩健成長，合理估 值 ",
+        "bbox": [
+            772,
+            472,
+            948,
+            830
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            994,
+            990
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "宏觀風險警示：在強勁的AI成長基本面外，仍需嚴密監控地緣政治與原物料飆漲對特定次產業的利潤擠壓。",
+        "bbox": [
+            57,
+            92,
+            481,
+            178
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Risk Heatmap ",
+        "text_level": 1,
+        "bbox": [
+            42,
+            264,
+            165,
+            303
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/75cc42eb940c9a9b5bb8396eb66f6c817b50022f85f908e6a405c2c388dc5c0d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=3 colspan=2>RiskArea1:能源與地緣政治(Energy&amp;Geopolitics)</td></tr><tr></tr><tr></tr><tr><td rowspan=2 colspan=1>Event Description</td><td rowspan=2 colspan=1>Impacted Sector&amp; Details</td></tr><tr></tr><tr><td rowspan=3 colspan=1>中東SouthPars天然氣田遭襲，引發石化原料(PVC,HDPE,SM)供給。</td><td rowspan=3 colspan=1>特用化學品（如中華化）。原料短缺可能推升成本，考驗向下游轉嫁的能力。</td></tr><tr></tr><tr></tr><tr><td rowspan=1 colspan=2>Risk Area2:原物料價格暴漲(Commodity Price Shocks)</td></tr><tr><td rowspan=1 colspan=1>Event Description</td><td rowspan=1 colspan=1>Impacted Sector&amp;Details</td></tr><tr><td rowspan=1 colspan=1>LME鋼價大漲超過60%，創下近期新高。</td><td rowspan=1 colspan=1>銅箔基板與PCB廠(如金居、聯茂)·銅價諷漲將侵蝕短期毛利率，需觀察2024下半年至2025年能否順利調漲產品報偵以轉嫁成本。</td></tr><tr><td></td><td></td></tr></table>",
+        "bbox": [
+            23,
+            317,
+            966,
+            929
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            968,
+            994,
+            990
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "結語：以「高能見度」為防禦核心，  \n搭配「漲價轉機」為攻擊衛星，建構  \n2024-2025年最佳化投資組合。  \n捕捉短期供需錯配、具備強鎖定具備長期結構性增長 勢定價權與估值修復空間的與極高訂單能見度的AI基 轉機題材。  \n礎設施龍頭。 核心產 標的：高階板材升级（台光標的：液冷散热雙雄（奇 Core Holdings 2383、台耀6274）、記憶3017、雙鴻3324)、先進 -佔比60-70% 體與零組件報價反彈（威封装設備（弘塑3131、辛 剛、被動元件）。耘3583)。  \nAI算力軍備競賽已進入白熱化階段，掌握底層硬體規格升級與產能瓶頸",
+        "bbox": [
+            1,
+            0,
+            990,
+            923
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "的「賣方市場」贏家，將是獲取超額報酬的唯一路徑。",
+        "bbox": [
+            146,
+            868,
+            859,
+            973
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "discarded",
+        "text": "NotebookLM ",
+        "bbox": [
+            920,
+            967,
+            997,
+            990
+        ],
+        "page_idx": 13
+    }
+]
