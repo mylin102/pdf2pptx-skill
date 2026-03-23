@@ -14,8 +14,7 @@ slides_html_ctci/
 ctci_mineru_out/
 
 # Generated Markdown from PDF
-AI_Strategy.md
-CTCI_Strategy.md
+*.md
 
 # OS files
 .DS_Store
