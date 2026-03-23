@@ -9,9 +9,9 @@ package-lock.json
 *.log
 
 # Generated intermediate folders
-slides_html/
-slides_html_ctci/
+slides_html*/
 ctci_mineru_out/
+output*/
 
 # Generated Markdown from PDF
 *.md
