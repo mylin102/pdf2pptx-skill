@@ -10,7 +10,7 @@ package-lock.json
 
 # Generated intermediate folders
 slides_html*/
-ctci_mineru_out/
+mineru_out*/
 output*/
 
 # Generated Markdown from PDF
